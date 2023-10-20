@@ -1,2 +1,53 @@
-# Comp484
-Comp484 project
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generic Webpage</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Optional: Link to an external CSS file -->
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to a Webpage about wildfires</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About </a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>This is a generic webpage template. More stuff will be added soon!</p>
+        </section>
+
+        <section>
+            <h2> About Wildfires</h2>
+            <p>What to know!</p>
+        </section>
+    </main>
+
+    <section>
+        <h2> What are the effects of Wildfires</h2>
+        <p>insert infor!!!!!!!!</p>
+    </section>
+
+    <section>
+        <h2> Solutions about Wildfires</h2>
+        <p>insert info!</p>
+    </section>
+
+
+    <footer>
+        <p>&copy; Oct 20 2023 Version</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- Optional: Link to an external JavaScript file -->
+</body>
+
+</html>
